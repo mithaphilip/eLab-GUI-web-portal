@@ -6,10 +6,6 @@ author:
 description: Horizon Dashboard - Swift as a User
 ---
 
-#### We followed, abridged, and skipped around the guide laid out at: # [http://docs.openstack.org/developer/openstack-ansible/install-guide/index.html](http://docs.openstack.org/developer/openstack-ansible/install-guide/index.html)
-
-  
-
 * * *
 
 #### Lab 15: Horizon Dashboard - Swift as a User #
@@ -95,3 +91,7 @@ Now here you can see the copy of the txt file.
 
 ## Delete the Objects and Container
 Similarly you can delete the object using drop down list. Before you delete a container you need to delete all the objects and pseudo folders in the container.
+
+Reference
+
+http://docs.openstack.org/developer/openstack-ansible/install-guide/index.html
